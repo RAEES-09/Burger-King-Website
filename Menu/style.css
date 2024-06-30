@@ -1,0 +1,34 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+}
+.card{
+
+   margin-left: 40px;
+   margin-top: 20px;
+}
+
+flex-warp{
+flex-warp: wrap !important;
+jsutify-content: space-evenly;
+}
+
+.d-flex{
+
+   display: flex; !important
+   align-items: center; 
+}
+
+.d-flex{
+
+   margin-left:35px ;
+}
+
+
+.banner-menu{
+
+   width: 100%;
+
+   margin-top: -170px;
+}
